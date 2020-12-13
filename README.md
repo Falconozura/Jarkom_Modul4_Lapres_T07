@@ -100,23 +100,21 @@ Anggota:<br />
   ![img](https://github.com/Falconozura/JARKOM_Modul4_Lapres_T07/blob/main/img/VLSM.png?raw=true)<br /><br />
   
   Mengatur IP pada setiap interface berdasarkan subnet yang telah ditentukan
-  - Router
+  - Router<br />
   ![img](https://github.com/Falconozura/JARKOM_Modul4_Lapres_T07/blob/main/img/Router.jpg?raw=true)<br /><br />
-  - Client
+  - Client<br />
   ![img](https://github.com/Falconozura/JARKOM_Modul4_Lapres_T07/blob/main/img/Client.jpg?raw=true)<br /><br />
-  - Server
-  ![img](https://github.com/Falconozura/JARKOM_Modul4_Lapres_T07/blob/main/img/Mojokerto.png?raw=true)<br /><br />
-  ![img](https://github.com/Falconozura/JARKOM_Modul4_Lapres_T07/blob/main/img/Malang.png?raw=true)<br /><br />
+  - Server<br />
+  ![img](https://github.com/Falconozura/JARKOM_Modul4_Lapres_T07/blob/main/img/Mojokerto.PNG?raw=true)<br /><br />
+  ![img](https://github.com/Falconozura/JARKOM_Modul4_Lapres_T07/blob/main/img/Malang.PNG?raw=true)<br /><br />
   
 ## Routing
   Melakukan routing pada setiap interface router menuju subnet yang belum dikenal
-  ![img](https://github.com/Falconozura/JARKOM_Modul4_Lapres_T07/blob/main/img/Surabaya.png?raw=true)<br /><br />
-  ![img](https://github.com/Falconozura/JARKOM_Modul4_Lapres_T07/blob/main/img/Pasuruan.png?raw=true)<br /><br />
-  ![img](https://github.com/Falconozura/JARKOM_Modul4_Lapres_T07/blob/main/img/Probolinggo.png?raw=true)<br /><br />
-  ![img](https://github.com/Falconozura/JARKOM_Modul4_Lapres_T07/blob/main/img/Batu.png?raw=true)<br /><br />
-  ![img](https://github.com/Falconozura/JARKOM_Modul4_Lapres_T07/blob/main/img/Madiun.png?raw=true)<br /><br />
-  ![img](https://github.com/Falconozura/JARKOM_Modul4_Lapres_T07/blob/main/img/Kediri.png?raw=true)<br /><br />
-  ![img](https://github.com/Falconozura/JARKOM_Modul4_Lapres_T07/blob/main/img/Blitar.png?raw=true)<br /><br />
+  ![img](https://github.com/Falconozura/JARKOM_Modul4_Lapres_T07/blob/main/img/Surabaya.PNG?raw=true)<br /><br />
+  ![img](https://github.com/Falconozura/JARKOM_Modul4_Lapres_T07/blob/main/img/Pasuruan.PNG?raw=true)<br /><br />
+  ![img](https://github.com/Falconozura/JARKOM_Modul4_Lapres_T07/blob/main/img/Probolinggo.PNG?raw=true)<br /><br />
+  ![img](https://github.com/Falconozura/JARKOM_Modul4_Lapres_T07/blob/main/img/Batu.PNG?raw=true)<br /><br />
+  ![img](https://github.com/Falconozura/JARKOM_Modul4_Lapres_T07/blob/main/img/Kediri.PNG?raw=true)<br /><br />
   
 # UML (CIDR)
 
