@@ -54,13 +54,13 @@ Anggota:<br />
     </tr>
     <tr>
       <td>A7</td>
-      <td></td>
-      <td>/</td>
+      <td>701</td>
+      <td>/22</td>
     </tr>
     <tr>
       <td>A8</td>
-      <td>701</td>
-      <td>/22</td>
+      <td>2</td>
+      <td>/30</td>
     </tr>
     <tr>
       <td>A9</td>
@@ -88,9 +88,12 @@ Anggota:<br />
       <td>/25</td>
     </tr>
   </table>
+  
   Menghitung pembagian IP berdasarkan NID dan Netmask
+  ![img](https://github.com/Falconozura/JARKOM_Modul4_Lapres_T07/blob/main/img/Topologi%20VLSM.png?raw=true)<br /><br />
   
   Menghitung pembagian IP Server dengan IP DMZ
+  ![img](https://github.com/Falconozura/JARKOM_Modul4_Lapres_T07/blob/main/img/Topologi%20VLSM-Server.png?raw=true)<br /><br />
   
 ## Pembagian IP
   Pemberian label `AX` pada topologi
