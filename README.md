@@ -190,11 +190,6 @@ Anggota:<br />
       <td><b>E1 dan F1</b></td>
       <td><b>/16</b></td>
     </tr>
-    <tr>
-      <td>A13</td>
-      <td>101</td>
-      <td>/25</td>
-    </tr>
   </table>
   
   Menghitung pembagian IP berdasarkan NID dan Netmask
