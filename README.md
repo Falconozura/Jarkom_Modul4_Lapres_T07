@@ -142,7 +142,7 @@ Anggota:<br />
     </tr>
     <tr>
       <td>B3</td>
-      <td>A10 dengan A11</td>
+      <td>A10 dan A11</td>
       <td>/21</td>
     </tr>
     <tr>
