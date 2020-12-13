@@ -97,6 +97,7 @@ Anggota:<br />
   
 ## Pembagian IP
   Pemberian label `AX` pada topologi
+  ![img](https://github.com/Falconozura/JARKOM_Modul4_Lapres_T07/blob/main/img/VLSM.png?raw=true)<br /><br />
   
   Mengatur IP pada setiap interface berdasarkan subnet yang telah ditentukan
   - Router
@@ -105,3 +106,88 @@ Anggota:<br />
   
 ## Routing
   Melakukan routing pada setiap interface router menuju subnet yang belum dikenal
+  
+# UML (CIDR)
+
+## Topologi
+  Membuat Topologi sesuai dengan soal
+  ![img](https://github.com/Falconozura/JARKOM_Modul4_Lapres_T07/blob/main/img/Soal%20Shift%20Modul%204.png?raw=true)<br /><br />
+  
+## Subneting
+  Mengelompokkan IP subnet menjadi subnet yang lebih besar. Dimulai dari subnet paling jauh.
+  <table>
+    <tr>
+      <th>Label</th>
+      <th>Gabungan</th>
+      <th>Netmask</th>
+    </tr>
+    <tr>
+      <td>B1</td>
+      <td>A12 dan A13</td>
+      <td>/20</td>
+    </tr>
+    <tr>
+      <td>B2</td>
+      <td>A9 dan A4</td>
+      <td>/22</td>
+    </tr>
+    <tr>
+      <td>B3</td>
+      <td>A10 dengan A11</td>
+      <td>/21</td>
+    </tr>
+    <tr>
+      <td>C1</td>
+      <td>A8 dan B1</td>
+      <td>/19</td>
+    </tr>
+    <tr>
+      <td>C2</td>
+      <td>A5 dan B2</td>
+      <td>/21</td>
+    </tr>
+    <tr>
+      <td>C3</td>
+      <td>A6 dan B3</td>
+      <td>/20</td>
+    </tr>
+    <tr>
+      <td>D1</td>
+      <td>A7 dan C1</td>
+      <td>/18</td>
+    </tr>
+    <tr>
+      <td>D2</td>
+      <td>C2 dan C3</td>
+      <td>/19</td>
+    </tr>
+    <tr>
+      <td>E1</td>
+      <td>A2 dan D1</td>
+      <td>/17</td>
+    </tr>
+    <tr>
+      <td>E2</td>
+      <td>A1 dan D2</td>
+      <td>/18</td>
+    </tr>
+    <tr>
+      <td>F1</td>
+      <td>A3 dan E2</td>
+      <td>/17</td>
+    </tr>
+    <tr>
+      <td><b>G1 (total)</b></td>
+      <td><b>E1 dan F1</b></td>
+      <td><b>/16</b></td>
+    </tr>
+    <tr>
+      <td>A13</td>
+      <td>101</td>
+      <td>/25</td>
+    </tr>
+  </table>
+  
+  Menghitung pembagian IP berdasarkan NID dan Netmask
+  ![img](https://github.com/Falconozura/JARKOM_Modul4_Lapres_T07/blob/main/img/Topologi%20CIDR.png?raw=true)<br /><br />
+  
